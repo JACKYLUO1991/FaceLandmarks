@@ -1,2 +1,1 @@
-# FaceLandmarks
-106-point face landmarks
+MNE: 0.0426 pfld -------- 0.0348 mobilenetv3
