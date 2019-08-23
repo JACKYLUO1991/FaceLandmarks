@@ -1,6 +1,6 @@
 # coding=utf-8
 '''
-Bob.Liu in 20171114
+Jacly LUO in 20190114
 '''
 import numpy as np
 import cv2
